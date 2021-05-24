@@ -13,6 +13,6 @@
 
 <body>
  
-  <h1 style="color:black; font-size:100px; text-align: center;">TAKING A BREAK FROM LINKED IN</h1>
+  <h1 style="color:black; font-size:50px; text-align: center;">TAKING A BREAK FROM LINKED IN</h1>
 </body>
 </html>
